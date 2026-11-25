@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://dev.muhibk-shalmani.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-1F78D1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://dev.muhibk-shalmani.workers.dev/assets/Muhib-Ullah-CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-172B4D?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV" /></a>
-  <a href="https://www.linkedin.com/in/muhib-ullah-95aa71354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/muhib-ullah-php/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:muhibk.shalmani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/923318788843"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
@@ -133,7 +133,7 @@ Government College Mathra, Warsak Road, Peshawar
 
 ### 📫 Hiring a PHP Developer? Let's Talk.
 
-I'm open to PHP developer roles, remote and on-site. Reach me at **[muhibk.shalmani@gmail.com](mailto:muhibk.shalmani@gmail.com)**, on **[LinkedIn](https://www.linkedin.com/in/muhib-ullah-95aa71354/)** or **[WhatsApp](https://wa.me/923318788843)**.
+I'm open to PHP developer roles, remote and on-site. Reach me at **[muhibk.shalmani@gmail.com](mailto:muhibk.shalmani@gmail.com)**, on **[LinkedIn](https://www.linkedin.com/in/muhib-ullah-php/)** or **[WhatsApp](https://wa.me/923318788843)**.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F78D1,100:172B4D&height=100&section=footer" alt="" />
